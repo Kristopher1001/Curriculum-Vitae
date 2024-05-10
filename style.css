@@ -93,3 +93,7 @@ header address img{
 .section__content {
     margin-left: 50px;
 }
+
+.tab {
+    text-indent: 50px;
+}
